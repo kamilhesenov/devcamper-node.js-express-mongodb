@@ -32,10 +32,6 @@ node seeder -i
 
 ## Demo
 
-The API is live at devcamper.io
-
-Extensive documentation with examples here
-
 - Vesion: 1.0.0
 - License: ISC
 - Auhtor: Kamil Hesenov
